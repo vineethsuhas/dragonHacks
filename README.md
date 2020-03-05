@@ -1,4 +1,4 @@
-# Dragon Hacks 2020
+# Dragon Hacks 2020 - Final
 
  - An analytical view of air pollution using Qlik Sense.
  - Time series forecasting using AutoARIMA modeling.
